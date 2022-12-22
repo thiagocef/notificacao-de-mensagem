@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.none {
+    display: none;
+}
+
+.color {
+    color: #f7fafd;
+}
+
+.background {
+    background-color: #f7fafd;
+}
