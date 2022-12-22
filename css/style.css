@@ -214,6 +214,9 @@ img {
     border-radius: 50%;
 }
 
-a:visited {
+a,
+a:visited,
+a:active,
+a:hover {
     color: var(--Blue);
 }
